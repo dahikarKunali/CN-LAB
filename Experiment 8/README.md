@@ -27,7 +27,7 @@
 ---
 
 ## Extracted Source Code
-File: `sliding_window222.c`
+File: `sliding_window229.c`
 ```c
 #include <stdio.h>
 #include <stdlib.h>
@@ -137,17 +137,17 @@ void receiver(int frames[], int start, int window_size) {
 ### Step 1: Create the Source File
 Open the file in `gedit`, paste the C code provided above, save and close:
 ```bash
-gedit sliding_window222.c
+gedit sliding_window229.c
 ```
 
 ### Step 2: Compile the Program
 ```bash
-gcc sliding_window222.c -o sliding_window222
+gcc sliding_window229.c -o sliding_window229
 ```
 
 ### Step 3: Run the Program
 ```bash
-./sliding_window222
+./sliding_window229
 ```
 
 ### Step 4: Interactive Sample Run
